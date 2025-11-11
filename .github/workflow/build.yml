@@ -1,4 +1,4 @@
-name: Build Pages by YDH
+name: Build Pages
 
 on:
   push:
