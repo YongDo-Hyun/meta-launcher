@@ -8,7 +8,7 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
@@ -23,12 +23,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "c55e9737fca1602405463c80a5cc41cc070332aa160320432bf04896cb0dce55",
+            "sha256": "4266c557c175ee92c9684ad5a87b359c4139b7f53d264fa826869ec80632c3df",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "a4d170e80d0802ff587d276166a15e7e8f8dc9416cf1973c92f4e6a63838ef41",
+            "sha256": "2d14589c32b11ed869439ef157ce1d1dcecc792e430842673d0d4d4c91a80ac8",
             "uid": "net.minecraft"
         },
         {
@@ -38,22 +38,22 @@
         },
         {
             "name": "Forge",
-            "sha256": "5dad72fd824fad6b7932d745a820a86390da31a67b12ae744533223cf534b7b4",
+            "sha256": "72af4ca178e022eb5e86315354e7d235f21e5470724b3cbc772b6647d88cd8d7",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "dc63e302fb118230995cc7cf294b737052936e7e3737df22fc32a1145ec3d449",
+            "sha256": "bf4478250b57854646db869f8c6e6daec3d0b93992b495574d52a6ac88998303",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "3db51500ebe6d0976ccc8618ad9ff76b475d4ad945440c68d0fc41e05508972b",
+            "sha256": "b99759e3241f9d5fd0720c5dbaac217c276f0aba1c8c56715deda27e51cd8bf5",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "d0047ee8ed5709f695f73dc07a16368020a548b51cfd04e3356fd40f5b43ec0a",
+            "sha256": "11f5071065389bcc35e45a64a01586288d9e25c68d6da83353cfe67ad8bf51bf",
             "uid": "org.lwjgl3"
         },
         {
